@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+    outline: 0;
+    display: block;
+}
+
+img {
+    border: 0;
+}
+
+body {
+    font: 12px/1.6 arial;
+    color: #333333;
+}
